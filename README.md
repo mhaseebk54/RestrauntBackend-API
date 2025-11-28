@@ -1,5 +1,3 @@
-# RestrauntBackend-API
-
 # 🍽️ RestrauntBackend-API
 
 This project is a **Node.js & Express.js backend API** for managing restaurants, food items, categories, users, and orders. It uses **MongoDB** for data storage and provides a RESTful API to support full-stack restaurant management applications.
